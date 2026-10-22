@@ -60,6 +60,7 @@ while(again.ToLower() == "a" )
         int current = first;
         while(current <= last)
         {
+           
            Console.WriteLine(current);
            // current = current + step;
            // stručnější zápis přechozího řádku
